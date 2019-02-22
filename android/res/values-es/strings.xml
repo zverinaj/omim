@@ -1455,6 +1455,23 @@
 	<string name="whatsnew_paid_routes_title">¡Más experiencias nuevas!</string>
 	<string name="whatsnew_paid_routes_message">Además de las rutas gratuitas, agregamos al catálogo 3 categorías de guías con pago. ¡Más de 700 rutas nuevas!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Compartir tus impresiones es fácil</string>
+	<string name="ugc_thanks_message_auth">Tu comentario ha sido guardado</string>
+	<string name="error_public_not _enought_title">No hay suficientes etiquetas</string>
+	<string name="gdpr_request_setting">Obtener el ID para solicitud de GDPR</string>
+	<string name="gdpr_request_window_message">Por favor cópialo y envía una solicitud a support\@maps.me</string>
+	<string name="gdpr_request_window_title">Tu ID es: %s.</string>
+	<string name="power_managment_setting_never">Nunca</string>
+	<string name="privacy_settings_menu">Configuración de privacidad</string>
+	<string name="power_managment_title">Modo de ahorro de energía</string>
+	<string name="gdpr_request_window_copy">Copiar el ID</string>
+	<string name="power_managment_description">Si el modo de ahorro de energía está activado, la aplicación desactivará las funciones que consumen energía, según la carga actual del teléfono</string>
+	<string name="whats_new_wiki_message">En las tarjetas de atracciones populares, hemos agregado artículos de Wikipedia.org, disponibles sin conexión</string>
+	<string name="power_managment_setting_manual_max">Ahorro de energía máximo</string>
+	<string name="whats_new_wiki_title">¿Qué es este lugar?</string>
+	<string name="unable_upadate_error_title">Hubo errores al actualizar. Comprueba los cambios y vuelve a intentarlo</string>
+	<string name="power_managment_setting_auto">Automático</string>
+	<string name="access_rules_author_only">Se edita en línea</string>
+	<string name="error_public_not _enought_subtitle">Debe haber al menos 3 etiquetas en tu ruta para poder cargarla en el directorio público</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Estación de teleférico</string>

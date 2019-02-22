@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Az értékelésed elmentve";
+
+"error_public_not _enought_title" = "Nincs elegendő könyvjelző";
+
+"gdpr_request_setting" = "ID beszerzése GDPR kéréshez";
+
+"gdpr_request_window_message" = "Kérjük másold le és küldd el a kérést a support@maps.me címre";
+
+"gdpr_request_window_title" = "A te ID-d: %s.";
+
+"power_managment_setting_never" = "Soha";
+
+"privacy_settings_menu" = "Adatvédelmi beállítások";
+
+"power_managment_title" = "Energiatakarékos mód";
+
+"gdpr_request_window_copy" = "ID lemásolása";
+
+"power_managment_description" = "Amikor az automatikus mód van kiválasztva, az alkalmazás elkezdi kikapcsolni az akkumulátort merítő funkciókat a jelenlegi akkumulátor töltöttség alapján";
+
+"whats_new_wiki_message" = "Wikipedia.org cikkeket adtunk hozzá a legnépszerűbb látnivalók oldalaihoz. Offline elérhetőek";
+
+"power_managment_setting_manual_max" = "Maximális energiatakarékosság";
+
+"whats_new_wiki_title" = "Mi ez a hely?";
+
+"unable_upadate_error_title" = "Néhány hiba történt frissítés közben. Kérjük ellenőrizd a változtatásokat és próbáld újra";
+
+"power_managment_setting_auto" = "Automatikus";
+
+"access_rules_author_only" = "Online szerkesztés";
+
+"error_public_not _enought_subtitle" = "Legalább 3 könyvjelződnek kell lennie, hogy az útmutatódat feltölthesd a nyilvános katalógusba";
+
 
 /**********  Partners  **********/
 

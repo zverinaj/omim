@@ -1525,6 +1525,23 @@
 	<string name="parthner_megafon_search_banner_button">Подробнее</string>
 	<!-- FIXME. Replaces parthner_megafon_search_banner_title -->
 	<string name="megafon">Подробнее</string>
+	<string name="ugc_thanks_message_auth">Ваш отзыв сохранен</string>
+	<string name="error_public_not _enought_title">Недостаточно меток</string>
+	<string name="gdpr_request_setting">Получить ID для GDPR запроса</string>
+	<string name="gdpr_request_window_message">Пожалуйста, скопируйте его и отправьте запрос на support\@maps.me</string>
+	<string name="gdpr_request_window_title">Ваш ID: %s.</string>
+	<string name="power_managment_setting_never">Никогда</string>
+	<string name="privacy_settings_menu">Настройки конфиденциальности</string>
+	<string name="power_managment_title">Режим энергосбережения</string>
+	<string name="gdpr_request_window_copy">Скопировать ID</string>
+	<string name="power_managment_description">Если режим энергосбережения включен, приложение будет отключать энергозатратные функции в зависимости от текущего заряда телефона</string>
+	<string name="whats_new_wiki_message">В карточки популярных достопримечательностей мы добавили статьи из Wikipedia.org, доступные офлайн</string>
+	<string name="power_managment_setting_manual_max">Максимальное энергосбережение</string>
+	<string name="whats_new_wiki_title">Что это за место?</string>
+	<string name="unable_upadate_error_title">Возникли ошибки при обновлении. Проверьте изменения и повторите попытку</string>
+	<string name="power_managment_setting_auto">Авто</string>
+	<string name="access_rules_author_only">Редактируется онлайн</string>
+	<string name="error_public_not _enought_subtitle">В вашем маршруте должно быть минимум 3 метки, чтобы загрузить его в публичный каталог</string>
 
 	<!-- SECTION:  Partners  -->
 	<string name="sponsored_partner1_action">Аутлеты</string>

@@ -1458,6 +1458,23 @@
 	<string name="whatsnew_paid_routes_title">Thêm nhiều trải nghiệm mới!</string>
 	<string name="whatsnew_paid_routes_message">Ngoài các tuyến đường miễn phí, chúng tôi đã thêm 3 danh mục tuyến đường có trả tiền vào danh mục của mình. Hơn 700 tuyến đường mới!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Rất dễ để chia sẻ những sự ấn tượng của bạn</string>
+	<string name="ugc_thanks_message_auth">Ý kiến của bạn đã được bảo lưu</string>
+	<string name="error_public_not _enought_title">Không đủ thẻ đánh dấu</string>
+	<string name="gdpr_request_setting">Nhận ID cho yêu cầu GDPR</string>
+	<string name="gdpr_request_window_message">Xin vui lòng sao chép nó và gửi yêu cầu tới địa chỉ support\@maps.me</string>
+	<string name="gdpr_request_window_title">ID của bạn: %s.</string>
+	<string name="power_managment_setting_never">Không bao giờ</string>
+	<string name="privacy_settings_menu">Cài đặt bảo mật</string>
+	<string name="power_managment_title">Chế độ tiết kiệm năng lượng</string>
+	<string name="gdpr_request_window_copy">Sao chép ID</string>
+	<string name="power_managment_description">Nếu chế độ tiết kiệm năng lượng được bật, ứng dụng sẽ tắt các chức năng tiêu thụ năng lượng tùy thuộc vào mức pin hiện tại của điện thoại</string>
+	<string name="whats_new_wiki_message">Chúng tôi đã thêm các bài viết về những điểm thu hút khách du lịch phổ biến nhất từ Wikipedia.org vào các trang. Những bài viết này đều có thể truy cập ngoại tuyến</string>
+	<string name="power_managment_setting_manual_max">Tiết kiệm năng lượng tối đa</string>
+	<string name="whats_new_wiki_title">Địa điểm này là thế nào?</string>
+	<string name="unable_upadate_error_title">Xuất hiện lỗi khi cập nhật. Hãy kiểm tra lại những thay đổi và thử lại lần nữa</string>
+	<string name="power_managment_setting_auto">Tự động</string>
+	<string name="access_rules_author_only">Chỉnh sửa trực tuyến</string>
+	<string name="error_public_not _enought_subtitle">Trong hướng dẫn tuyến du lịch của bạn phải có ít nhất 3 thẻ đánh dấu để có thể tải lên công khai</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Trạm Cáp Treo</string>

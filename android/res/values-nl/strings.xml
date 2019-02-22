@@ -1462,6 +1462,23 @@
 	<string name="whatsnew_paid_routes_title">Nog nieuwe ervaringen!</string>
 	<string name="whatsnew_paid_routes_message">Bovenop de gratis routes, hebben we 3 betalende routes toegevoegd aan onze catalogus. Meer dan 700 routes!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Het is eenvoudig om je indrukken te delen</string>
+	<string name="ugc_thanks_message_auth">Uw feedback is opgeslagen</string>
+	<string name="error_public_not _enought_title">Niet genoeg tags</string>
+	<string name="gdpr_request_setting">Ontvang ID voor GDPR-verzoek</string>
+	<string name="gdpr_request_window_message">Alstublieft, kopieer het en stuur een verzoek naar support\@maps.me</string>
+	<string name="gdpr_request_window_title">Uw ID: %s.</string>
+	<string name="power_managment_setting_never">Nooit</string>
+	<string name="privacy_settings_menu">Privacy instellingen</string>
+	<string name="power_managment_title">Energiebesparende modus</string>
+	<string name="gdpr_request_window_copy">ID kopiëren</string>
+	<string name="power_managment_description">Als de energiebesparende modus is ingeschakeld, schakelt de app de energieverbruikende functies uit afhankelijk van de huidige lading van de mobiele telefoon</string>
+	<string name="whats_new_wiki_message">We hebben artikelen van Wikipedia.org toegevoegd aan de kaartjes van de populairste attracties. Ze zijn offline beschikbaar</string>
+	<string name="power_managment_setting_manual_max">Maximale energiebesparing</string>
+	<string name="whats_new_wiki_title">Wat is deze plaats?</string>
+	<string name="unable_upadate_error_title">Er zijn fouten opgetreden tijdens het updaten. Controleer de wijzigingen en probeer het opnieuw</string>
+	<string name="power_managment_setting_auto">Auto</string>
+	<string name="access_rules_author_only">Wordt online bewerkt</string>
+	<string name="error_public_not _enought_subtitle">Uw route moet minimaal 3 tags bevatten, zodat deze kan worden geüpload naar de openbare map</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Kabelwagenstation</string>

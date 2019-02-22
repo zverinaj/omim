@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "あなたのレビューが保存されました";
+
+"error_public_not _enought_title" = "ブックマークが足りません";
+
+"gdpr_request_setting" = "GDPRリクエストのためのIDを取得";
+
+"gdpr_request_window_message" = "これをコピーしてsupport@maps.meにリクエストを送信してください";
+
+"gdpr_request_window_title" = "あなたのID：%s。";
+
+"power_managment_setting_never" = "無効";
+
+"privacy_settings_menu" = "プライバシー設定";
+
+"power_managment_title" = "電力節約モード";
+
+"gdpr_request_window_copy" = "IDをコピー";
+
+"power_managment_description" = "自動モードが選択されている場合、このアプリケーションは現在のバッテリーの充電状態に応じてバッテリー消費の激しい機能の無効化を開始します";
+
+"whats_new_wiki_message" = "当社はWikipedia.orgの記事を最も人気の観光名所のページに追加しました。これらはオフラインで利用する事ができます";
+
+"power_managment_setting_manual_max" = "最大電力節約";
+
+"whats_new_wiki_title" = "その場所は何ですか？";
+
+"unable_upadate_error_title" = "更新中に何かミスが発生しました。変更を確認して、もう一度お試しください";
+
+"power_managment_setting_auto" = "自動";
+
+"access_rules_author_only" = "オンライン編集";
+
+"error_public_not _enought_subtitle" = "パブリックカタログにあなたのガイドをアップロードするには少なくとも3つのブックマークが必要です";
+
 
 /**********  Partners  **********/
 

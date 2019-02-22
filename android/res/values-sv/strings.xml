@@ -1466,6 +1466,23 @@
 	<string name="whatsnew_paid_routes_title">Mer positiva intryck!</string>
 	<string name="whatsnew_paid_routes_message">Förutom gratis rutter har vi lagt 3 kategorier av betalade vägvisare till katalogen. Mer än 700 nya rutter!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Det är lätt att dela dina intryck</string>
+	<string name="ugc_thanks_message_auth">Din recension har sparats</string>
+	<string name="error_public_not _enought_title">Inte tillräckligt med etiketter</string>
+	<string name="gdpr_request_setting">Få ID för GDPR förfrågan</string>
+	<string name="gdpr_request_window_message">Vänligen kopiera det och skicka förfrågan till support\@maps.me</string>
+	<string name="gdpr_request_window_title">Ditt ID: %s.</string>
+	<string name="power_managment_setting_never">Aldrig</string>
+	<string name="privacy_settings_menu">Sekretessinställningar</string>
+	<string name="power_managment_title">Energisparläge</string>
+	<string name="gdpr_request_window_copy">Kopiera ID</string>
+	<string name="power_managment_description">Om energisparläget är på, ska appen stänga av energikrävande funktioner beroende på telefonens nuvarande laddning</string>
+	<string name="whats_new_wiki_message">Vi har lagt till artiklar från Wikipedia.org, som är tillgängliga offline, i korten av populära sevärdheter</string>
+	<string name="power_managment_setting_manual_max">Maximal energibesparing</string>
+	<string name="whats_new_wiki_title">Vad är det för plats?</string>
+	<string name="unable_upadate_error_title">Det uppstod några fel vid uppdatering. Kontrollera ändringarna och försök igen</string>
+	<string name="power_managment_setting_auto">Automatiskt</string>
+	<string name="access_rules_author_only">Redigeras online</string>
+	<string name="error_public_not _enought_subtitle">Din resrutt måste ha minst 3 etiketter för att laddas upp till den offentliga katalogen</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Linbanestation</string>

@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Ý kiến của bạn đã được bảo lưu";
+
+"error_public_not _enought_title" = "Không đủ thẻ đánh dấu";
+
+"gdpr_request_setting" = "Nhận ID cho yêu cầu GDPR";
+
+"gdpr_request_window_message" = "Xin vui lòng sao chép nó và gửi yêu cầu tới địa chỉ support@maps.me";
+
+"gdpr_request_window_title" = "ID của bạn: %s.";
+
+"power_managment_setting_never" = "Không bao giờ";
+
+"privacy_settings_menu" = "Cài đặt bảo mật";
+
+"power_managment_title" = "Chế độ tiết kiệm năng lượng";
+
+"gdpr_request_window_copy" = "Sao chép ID";
+
+"power_managment_description" = "Nếu chế độ tiết kiệm năng lượng được bật, ứng dụng sẽ tắt các chức năng tiêu thụ năng lượng tùy thuộc vào mức pin hiện tại của điện thoại";
+
+"whats_new_wiki_message" = "Chúng tôi đã thêm các bài viết về những điểm thu hút khách du lịch phổ biến nhất từ Wikipedia.org vào các trang. Những bài viết này đều có thể truy cập ngoại tuyến";
+
+"power_managment_setting_manual_max" = "Tiết kiệm năng lượng tối đa";
+
+"whats_new_wiki_title" = "Địa điểm này là thế nào?";
+
+"unable_upadate_error_title" = "Xuất hiện lỗi khi cập nhật. Hãy kiểm tra lại những thay đổi và thử lại lần nữa";
+
+"power_managment_setting_auto" = "Tự động";
+
+"access_rules_author_only" = "Chỉnh sửa trực tuyến";
+
+"error_public_not _enought_subtitle" = "Trong hướng dẫn tuyến du lịch của bạn phải có ít nhất 3 thẻ đánh dấu để có thể tải lên công khai";
+
 
 /**********  Partners  **********/
 

@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Yorumunuz kaydedildi";
+
+"error_public_not _enought_title" = "Yeterli yer imi yok";
+
+"gdpr_request_setting" = "GDPR isteği için kimlik al";
+
+"gdpr_request_window_message" = "Lütfen kopyalayın ve talebi support@maps.me adresine gönderin";
+
+"gdpr_request_window_title" = "Kimliğiniz: %s.";
+
+"power_managment_setting_never" = "Asla";
+
+"privacy_settings_menu" = "Gizlilik ayarları";
+
+"power_managment_title" = "Güç tasarrufu modu";
+
+"gdpr_request_window_copy" = "Kimliği kopyala";
+
+"power_managment_description" = "Otomatik mod seçildiğinde, uygulama geçerli pil seviyesine bağlı olarak şarj harcayan özellikleri devre dışı bırakmaya başlar";
+
+"whats_new_wiki_message" = "En popüler turistik mekanların sayfalarına Wikipedia.org makaleleri ekledik. Çevrimdışı kullanılabilirler";
+
+"power_managment_setting_manual_max" = "Maksimum güç tasarrufu";
+
+"whats_new_wiki_title" = "O yer neresi?";
+
+"unable_upadate_error_title" = "Güncelleme sırasında bazı hatalar oluştu. Lütfen değişiklikleri kontrol edip tekrar deneyin";
+
+"power_managment_setting_auto" = "Otomatik";
+
+"access_rules_author_only" = "Çevrimiçi düzenleme";
+
+"error_public_not _enought_subtitle" = "Kılavuzunuzu genel kataloğa yükleyebilmek için en az 3 yer iminiz olmalı";
+
 
 /**********  Partners  **********/
 

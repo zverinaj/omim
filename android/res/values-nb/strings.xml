@@ -1359,6 +1359,23 @@
 	<string name="whatsnew_paid_routes_title">Flere nye opplevelser!</string>
 	<string name="whatsnew_paid_routes_message">I tillegg til de tur-rutene som er gratis, har vi lagt til 3 tur-rute kategorier som kan kjøpes i vår katalog. Over 700 nye turer!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Del inntrykkene dine med andre, enkelt</string>
+	<string name="ugc_thanks_message_auth">Din anmeldelse har blitt lagret</string>
+	<string name="error_public_not _enought_title">Ikke nok bokmerker</string>
+	<string name="gdpr_request_setting">Få ID for GDPR-forespørsel</string>
+	<string name="gdpr_request_window_message">Vennligst kopi det og send forespørselen til support\@maps.me</string>
+	<string name="gdpr_request_window_title">Din ID: %s.</string>
+	<string name="power_managment_setting_never">Aldri</string>
+	<string name="privacy_settings_menu">Pesonverninstillinger</string>
+	<string name="power_managment_title">Strømsparemodus</string>
+	<string name="gdpr_request_window_copy">Kopier ID</string>
+	<string name="power_managment_description">Når automatisk modus er valgt, begynner programmet å deaktivere batteridriftfunksjonene avhengig av det nåværende batterinivået</string>
+	<string name="whats_new_wiki_message">Vi har lagt Wikipedia.org artikler til sidene over de mest populære turistattraksjonene. De er tilgjengelig uten netttverksforbindelse</string>
+	<string name="power_managment_setting_manual_max">Maksimum strømsparing</string>
+	<string name="whats_new_wiki_title">Hva er det stedet?</string>
+	<string name="unable_upadate_error_title">Feil oppstod ved oppdatering. Sjekk forandringer og prøv igjen</string>
+	<string name="power_managment_setting_auto">Automatisk</string>
+	<string name="access_rules_author_only">Redigering på nett</string>
+	<string name="error_public_not _enought_subtitle">Du bør ha minst 3 bokmerker for å kunne laste opp din guide til den offentlige katalogen</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Kabelbanestasjon</string>

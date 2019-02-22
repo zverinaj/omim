@@ -1466,6 +1466,23 @@
 	<string name="whatsnew_paid_routes_title">Viac nových zážitkov!</string>
 	<string name="whatsnew_paid_routes_message">Okrem bezplatných trás sme do nášho katalógu pridali tri platené kategórie trás. Viac ako 700 nových trás!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Je ľahké podeliť sa o vaše dojmy</string>
+	<string name="ugc_thanks_message_auth">Recenzia bola uložená</string>
+	<string name="error_public_not _enought_title">Nie je dostatok záložiek</string>
+	<string name="gdpr_request_setting">Získajte ID pre GDPR žiadosť</string>
+	<string name="gdpr_request_window_message">Skopírujte ho a pošlite žiadosť na adresu support\@maps.me</string>
+	<string name="gdpr_request_window_title">Vaše ID: %s.</string>
+	<string name="power_managment_setting_never">Nikdy</string>
+	<string name="privacy_settings_menu">Nastavenia ochrany osobných údajov</string>
+	<string name="power_managment_title">Úsporný režim</string>
+	<string name="gdpr_request_window_copy">Skopírujte ID</string>
+	<string name="power_managment_description">Keď je zvolený automatický režim, aplikácia začne vypínať funkcie, ktoré vybíjajú batériu v závislosti od aktuálnej úrovne nabitia batérie</string>
+	<string name="whats_new_wiki_message">Pridali sme články Wikipedia.org na stránky najobľúbenejších turistických atrakcií. Sú k dispozícii offline</string>
+	<string name="power_managment_setting_manual_max">Maximálna úspora batérie</string>
+	<string name="whats_new_wiki_title">Čo je to za miesto?</string>
+	<string name="unable_upadate_error_title">Počas aktualizácie sa vyskytli určité chyby. Skontrolujte zmeny a skúste to znova</string>
+	<string name="power_managment_setting_auto">Automaticky</string>
+	<string name="access_rules_author_only">Online úprava</string>
+	<string name="error_public_not _enought_subtitle">Mali by ste mať minimálne 3 záložky, aby ste mohli nahrať sprievodcu do verejného katalógu</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Lanovka</string>

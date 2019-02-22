@@ -1466,6 +1466,23 @@
 	<string name="whatsnew_paid_routes_title">Więcej nowych wrażeń!</string>
 	<string name="whatsnew_paid_routes_message">Do bezpłatnych tras jako dodatek do katalogu dodaliśmy 3 kategorie płatnych przewodników. Ponad 700 nowych tras!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Chce się podzielić wrażeniami? To proste!</string>
+	<string name="ugc_thanks_message_auth">Twój komentarz został zapisany</string>
+	<string name="error_public_not _enought_title">Zbyt mało znaczników</string>
+	<string name="gdpr_request_setting">Otrzymaj ID dla GDPR zapytania</string>
+	<string name="gdpr_request_window_message">Skopiuj jego i wyślij zapytanie pod adres support\@maps.me</string>
+	<string name="gdpr_request_window_title">Twój ID: %s.</string>
+	<string name="power_managment_setting_never">Nigdy</string>
+	<string name="privacy_settings_menu">Ustawienia prywatności</string>
+	<string name="power_managment_title">Tryb oszczędzania energii</string>
+	<string name="gdpr_request_window_copy">Skopiuj ID</string>
+	<string name="power_managment_description">Jeśli jest włączony tryb oszczędzania energii, wtedy aplikacja wyłączy funkcje energochłonne, zależnie od bieżącego poziomu załadowania telefonu</string>
+	<string name="whats_new_wiki_message">Do kart popularnych atrakcji dodaliśmy artykuły z serwisu Wikipedia.org, dostępnego w trybie offline</string>
+	<string name="power_managment_setting_manual_max">Maksymalna oszczędność energii</string>
+	<string name="whats_new_wiki_title">Co jest w tym miejscu?</string>
+	<string name="unable_upadate_error_title">Podczas aktualizacji wystąpiły błędy. Sprawdź zmiany i spróbuj ponownie</string>
+	<string name="power_managment_setting_auto">Auto</string>
+	<string name="access_rules_author_only">Edytowane online</string>
+	<string name="error_public_not _enought_subtitle">Twoja trasa musi zawierać co najmniej 3 znaczniki, wtedy będziesz mogli wysłać ją do katalogu publicznego</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Stacja kolejki linowej</string>

@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "تم حفظ تعليقك";
+
+"error_public_not _enought_title" = "لا يوجد معلمات كافية";
+
+"gdpr_request_setting" = "احصل على اسم مستخدم طبقًا لقواعد GDPR";
+
+"gdpr_request_window_message" = "يرجى نسخه وإرسال الطلب إلى support@maps.me";
+
+"gdpr_request_window_title" = "اسم المستخدم: %s.";
+
+"power_managment_setting_never" = "أبدًا";
+
+"privacy_settings_menu" = "إعدادات الخصوصية";
+
+"power_managment_title" = "وضع توفير الطاقة";
+
+"gdpr_request_window_copy" = "انسخ اسم المستخدم";
+
+"power_managment_description" = "عندما يتم اختيار الوضع التلقائي، يبدأ التطبيق بتعطيل الخصائص التي تستهلك البطارية بناءً على مستوى شحن البطارية";
+
+"whats_new_wiki_message" = "لقد أضفنا مقالات Wikipedia.org إلى صفحات معظم الأماكن السياحية المشهورة. أنها متاحة بدون اتصال بالانترنت";
+
+"power_managment_setting_manual_max" = "توفير الطاقة القصوى";
+
+"whats_new_wiki_title" = "ما هذا المكان؟";
+
+"unable_upadate_error_title" = "حدثت بعض الأخطاء أثناء التحديث يرجى التحقق من التغييرات و حاول مرة أخرى";
+
+"power_managment_setting_auto" = "تلقائي";
+
+"access_rules_author_only" = "التحرير على الإنترنت";
+
+"error_public_not _enought_subtitle" = "يجب أن يكون هناك 3 معلمات على الأقل لرفع دليلك إلى الدليل العام";
+
 
 /**********  Partners  **********/
 

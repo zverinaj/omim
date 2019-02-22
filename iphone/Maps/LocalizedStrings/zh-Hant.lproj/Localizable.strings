@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "您的評論已保存";
+
+"error_public_not _enought_title" = "標籤不足";
+
+"gdpr_request_setting" = "GDPR請求獲取ID";
+
+"gdpr_request_window_message" = "請複制並發送請求至support@maps.me";
+
+"gdpr_request_window_title" = "您的ID：%s.";
+
+"power_managment_setting_never" = "從不";
+
+"privacy_settings_menu" = "隱私設置";
+
+"power_managment_title" = "省電模式";
+
+"gdpr_request_window_copy" = "複製ID";
+
+"power_managment_description" = "如果開啟省電模式，應用程序將根據手機的當前電量關耗電功能";
+
+"whats_new_wiki_message" = "在熱門景點的卡片中，我們添加了來自Wikipedia.org的文章，可以離線使用";
+
+"power_managment_setting_manual_max" = "最大程度省電";
+
+"whats_new_wiki_title" = "這是什麼地方？";
+
+"unable_upadate_error_title" = "更新時出錯。請檢查更改，然後再重試";
+
+"power_managment_setting_auto" = "自動";
+
+"access_rules_author_only" = "在線編輯";
+
+"error_public_not _enought_subtitle" = "您的路線至少應有3個標籤才能上傳到公共目錄中";
+
 
 /**********  Partners  **********/
 

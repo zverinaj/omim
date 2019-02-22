@@ -1476,6 +1476,23 @@
 	<string name="whatsnew_paid_routes_title">Mehr neue Eindrücke!</string>
 	<string name="whatsnew_paid_routes_message">Zusätzlich zu den kostenfreien Routen haben wir 3 Kategorien kostenpflichtiger Reiseführer zum Katalog hinzugefügt. Über 700 neue Routen!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Es ist einfach, Ihre Eindrücke zu teilen</string>
+	<string name="ugc_thanks_message_auth">Ihr Feedback wurde gespeichert</string>
+	<string name="error_public_not _enought_title">Ungenügend Markierungen</string>
+	<string name="gdpr_request_setting">ID für GDPR-Anfrage bekommen</string>
+	<string name="gdpr_request_window_message">Bitte kopieren und schicken Sie die ID an support\@maps.me</string>
+	<string name="gdpr_request_window_title">Ihr ID: %s.</string>
+	<string name="power_managment_setting_never">Niemals</string>
+	<string name="privacy_settings_menu">Datenschutzeinstellungen</string>
+	<string name="power_managment_title">Stromsparmodus</string>
+	<string name="gdpr_request_window_copy">ID kopieren</string>
+	<string name="power_managment_description">Falls der Stromsparmodus aktiviert ist, wird die App stromintensive Prozesse je nach dem aktuellen Ladezustand deaktivieren</string>
+	<string name="whats_new_wiki_message">In die Karten berühmter Sehenswürdigkeiten haben wir Artikel aus Wikipedia.org hinzugefügt, die offline verfügbar sind</string>
+	<string name="power_managment_setting_manual_max">Maximale Stromsparung</string>
+	<string name="whats_new_wiki_title">Was ist das für ein Ort?</string>
+	<string name="unable_upadate_error_title">Bei der Aktualisierung sind Fehler aufgetreten. Überprüfen Sie die Änderungen und versuchen Sie es noch einmal</string>
+	<string name="power_managment_setting_auto">Auto</string>
+	<string name="access_rules_author_only">Online bearbeiten</string>
+	<string name="error_public_not _enought_subtitle">In Ihrer Route sollen mindestens 3 Markierungen vorhanden sein, um sie in den öffentlichen Katalog zu laden</string>
 
 	<!-- SECTION:  Partners  -->
 	<string name="sponsored_partner2_action">Rabatt</string>

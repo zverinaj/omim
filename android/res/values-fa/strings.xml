@@ -1406,6 +1406,23 @@
 	<string name="whatsnew_pro_guides_message">بسیار دقیق، با توضیحات مفصلی از مکان ها و توانایی محاسبه فاصله و زمان سفر</string>
 	<string name="whatsnew_paid_routes_title">تجارب جدید بیشتر!</string>
 	<string name="whatsnew_paid_routes_message">علاوه بر مسیرهای رایگان، سه دسته مسیر پولی نیز به فهرست ما افزوده شده است. بیش از ۷۰۰ مسیر جدید!</string>
+	<string name="ugc_thanks_message_auth">نظر شما ذخیره شده‌است</string>
+	<string name="error_public_not _enought_title">نشان شده‌ها کافی نیست</string>
+	<string name="gdpr_request_setting">دریافت شناسه برای درخواست GDPR</string>
+	<string name="gdpr_request_window_message">لطفاً آن را کپی کرده و درخواست را به support\@maps.me ارسال کنید</string>
+	<string name="gdpr_request_window_title">شناسه شما: %s.</string>
+	<string name="power_managment_setting_never">هرگز</string>
+	<string name="privacy_settings_menu">تنظیمات حریم خصوصی</string>
+	<string name="power_managment_title">حالت ذخیره انرژی</string>
+	<string name="gdpr_request_window_copy">شناسه را کپی کنید</string>
+	<string name="power_managment_description">هنگامی که حالت خودکار انتخاب شده‌باشد، برنامه با توجه میزان شارژ باتری شما، ویژگی‌های تخلیه کننده باتری را غیر فعال می‌کند</string>
+	<string name="whats_new_wiki_message">ما مقالات Wikipedia.org را به صفحات جذاب‌ترین جاذبه‌های توریستی اضافه کرده‌ایم. آن‌ها به طور آفلاین دردسترس می‌باشد</string>
+	<string name="power_managment_setting_manual_max">حداکثر ذخیره انرژی</string>
+	<string name="whats_new_wiki_title">آن محل چیست؟</string>
+	<string name="unable_upadate_error_title">هنگام به روز رسانی برخی اشتباهات رخ داده است. لطفاً تغییرات را بررسی و مجدد تلاش کنید</string>
+	<string name="power_managment_setting_auto">خودکار</string>
+	<string name="access_rules_author_only">ویرایش آنلاین</string>
+	<string name="error_public_not _enought_subtitle">شما باید حداقل 3 نشان‌ شده داشته باشید تا راهنمای خود را به کاتالوگ عمومی ارسال کنید</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aeroway.aerodrome">فرودگاه</string>

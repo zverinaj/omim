@@ -1458,6 +1458,23 @@
 	<string name="whatsnew_paid_routes_title">Mai multe experiențe noi!</string>
 	<string name="whatsnew_paid_routes_message">Pe lângă rutele gratuite, în catalogul nostru am adăugat 3 categorii de rute plătite. Peste 700 de rute noi!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Este ușor să vă împărtășiți impresiile</string>
+	<string name="ugc_thanks_message_auth">Comentariul dvs. a fost salvat</string>
+	<string name="error_public_not _enought_title">Etichete insuficiente</string>
+	<string name="gdpr_request_setting">Primiți ID pentru GDPR-ul solicitării</string>
+	<string name="gdpr_request_window_message">Vă rugăm să copiați și să expediați cererea pe support\@maps.me</string>
+	<string name="gdpr_request_window_title">ID dvs.: %s.</string>
+	<string name="power_managment_setting_never">Niciodată</string>
+	<string name="privacy_settings_menu">Setarea confidențialității</string>
+	<string name="power_managment_title">Modul de economisire a energiei</string>
+	<string name="gdpr_request_window_copy">Copierea ID</string>
+	<string name="power_managment_description">Dacă este pornit modul de economisire a energiei, aplicația va deconecta funcțiile care consumă multă energie în dependență de încărcarea bateriei telefonice</string>
+	<string name="whats_new_wiki_message">În fișierele locurilor atractive, am adăugat articole din Wikipedia.org, accesibile offline</string>
+	<string name="power_managment_setting_manual_max">Economisire maximă a energiei</string>
+	<string name="whats_new_wiki_title">Ce loc este acesta?</string>
+	<string name="unable_upadate_error_title">Au intervenit erori de actualizare. Verificați modificările și încercați încă o dată</string>
+	<string name="power_managment_setting_auto">Auto</string>
+	<string name="access_rules_author_only">Se editează online</string>
+	<string name="error_public_not _enought_subtitle">Pe traseul dvs. trebuie să fie cel puțin 3 etichete, pentru a le încărca în catalogul public</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Stație de teleferic</string>

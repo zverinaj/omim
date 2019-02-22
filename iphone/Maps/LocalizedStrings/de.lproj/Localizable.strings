@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Ihr Feedback wurde gespeichert";
+
+"error_public_not _enought_title" = "Ungenügend Markierungen";
+
+"gdpr_request_setting" = "ID für GDPR-Anfrage bekommen";
+
+"gdpr_request_window_message" = "Bitte kopieren und schicken Sie die ID an support@maps.me";
+
+"gdpr_request_window_title" = "Ihr ID: %s.";
+
+"power_managment_setting_never" = "Niemals";
+
+"privacy_settings_menu" = "Datenschutzeinstellungen";
+
+"power_managment_title" = "Stromsparmodus";
+
+"gdpr_request_window_copy" = "ID kopieren";
+
+"power_managment_description" = "Falls der Stromsparmodus aktiviert ist, wird die App stromintensive Prozesse je nach dem aktuellen Ladezustand deaktivieren";
+
+"whats_new_wiki_message" = "In die Karten berühmter Sehenswürdigkeiten haben wir Artikel aus Wikipedia.org hinzugefügt, die offline verfügbar sind";
+
+"power_managment_setting_manual_max" = "Maximale Stromsparung";
+
+"whats_new_wiki_title" = "Was ist das für ein Ort?";
+
+"unable_upadate_error_title" = "Bei der Aktualisierung sind Fehler aufgetreten. Überprüfen Sie die Änderungen und versuchen Sie es noch einmal";
+
+"power_managment_setting_auto" = "Auto";
+
+"access_rules_author_only" = "Online bearbeiten";
+
+"error_public_not _enought_subtitle" = "In Ihrer Route sollen mindestens 3 Markierungen vorhanden sein, um sie in den öffentlichen Katalog zu laden";
+
 
 /**********  Partners  **********/
 

@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Το σχόλιό σας έχει αποθηκευτεί";
+
+"error_public_not _enought_title" = "Δεν υπάρχουν αρκετά σημάδια";
+
+"gdpr_request_setting" = "Λήψη του αναγνωριστικού αριθμού για το αίτημα GDPR";
+
+"gdpr_request_window_message" = "Αντιγράψτε το και στείλτε το αίτημα στη διεύθυνση support@maps.me";
+
+"gdpr_request_window_title" = "Ο αναγνωριστικός αριθμός σας είναι: %s.";
+
+"power_managment_setting_never" = "Ποτέ";
+
+"privacy_settings_menu" = "Ρυθμίσεις απορρήτου";
+
+"power_managment_title" = "Λειτουργία εξοικονόμησης ενέργειας";
+
+"gdpr_request_window_copy" = "Αντιγραφή του αναγνωριστικού αριθμού";
+
+"power_managment_description" = "Εάν η λειτουργία εξοικονόμησης ενέργειας είναι ενεργοποιημένη, η εφαρμογή θα κλείνει τις λειτουργίες που καταναλώνουν ενέργεια ανάλογα με την τρέχουσα φόρτιση του τηλεφώνου";
+
+"whats_new_wiki_message" = "Στις κάρτες των δημοφιλών αξιοθέατων προσθέσαμε άρθρα από το Wikipedia.org που είναι διαθέσιμα εκτός σύνδεσης";
+
+"power_managment_setting_manual_max" = "Μέγιστη εξοικονόμηση ενέργειας";
+
+"whats_new_wiki_title" = "Τι είναι αυτό το μέρος?";
+
+"unable_upadate_error_title" = "Παρουσιάστηκαν σφάλματα κατά την ενημέρωση. Ελέγξτε τις αλλαγές και δοκιμάστε ξανά";
+
+"power_managment_setting_auto" = "Αυτόματα";
+
+"access_rules_author_only" = "Επεξεργάζεται online";
+
+"error_public_not _enought_subtitle" = "Η διαδρομή σας πρέπει να έχει τουλάχιστον 3 σημάδια για να μεταφορτωθεί στον δημόσιο κατάλογο";
+
 
 /**********  Partners  **********/
 

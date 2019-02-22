@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Din anmeldelse har blitt lagret";
+
+"error_public_not _enought_title" = "Ikke nok bokmerker";
+
+"gdpr_request_setting" = "Få ID for GDPR-forespørsel";
+
+"gdpr_request_window_message" = "Vennligst kopi det og send forespørselen til support@maps.me";
+
+"gdpr_request_window_title" = "Din ID: %s.";
+
+"power_managment_setting_never" = "Aldri";
+
+"privacy_settings_menu" = "Pesonverninstillinger";
+
+"power_managment_title" = "Strømsparemodus";
+
+"gdpr_request_window_copy" = "Kopier ID";
+
+"power_managment_description" = "Når automatisk modus er valgt, begynner programmet å deaktivere batteridriftfunksjonene avhengig av det nåværende batterinivået";
+
+"whats_new_wiki_message" = "Vi har lagt Wikipedia.org artikler til sidene over de mest populære turistattraksjonene. De er tilgjengelig uten netttverksforbindelse";
+
+"power_managment_setting_manual_max" = "Maksimum strømsparing";
+
+"whats_new_wiki_title" = "Hva er det stedet?";
+
+"unable_upadate_error_title" = "Feil oppstod ved oppdatering. Sjekk forandringer og prøv igjen";
+
+"power_managment_setting_auto" = "Automatisk";
+
+"access_rules_author_only" = "Redigering på nett";
+
+"error_public_not _enought_subtitle" = "Du bør ha minst 3 bokmerker for å kunne laste opp din guide til den offentlige katalogen";
+
 
 /**********  Partners  **********/
 

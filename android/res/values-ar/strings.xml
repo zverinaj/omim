@@ -1467,6 +1467,23 @@
 	<string name="whatsnew_paid_routes_title">المزيد من الخبرات الجديدة!</string>
 	<string name="whatsnew_paid_routes_message">بالإضافة إلى الطرقات المجانية ، قمنا بإضافة 3 فئات للمسارات المدفوعة إلى الكتالوج الخاص بنا. أكثر من 700 طريق جديد!</string>
 	<string name="whats_new_ugc_routes_title_android_only">من السهل مشاركة انطباعاتك</string>
+	<string name="ugc_thanks_message_auth">تم حفظ تعليقك</string>
+	<string name="error_public_not _enought_title">لا يوجد معلمات كافية</string>
+	<string name="gdpr_request_setting">احصل على اسم مستخدم طبقًا لقواعد GDPR</string>
+	<string name="gdpr_request_window_message">يرجى نسخه وإرسال الطلب إلى support\@maps.me</string>
+	<string name="gdpr_request_window_title">اسم المستخدم: %s.</string>
+	<string name="power_managment_setting_never">أبدًا</string>
+	<string name="privacy_settings_menu">إعدادات الخصوصية</string>
+	<string name="power_managment_title">وضع توفير الطاقة</string>
+	<string name="gdpr_request_window_copy">انسخ اسم المستخدم</string>
+	<string name="power_managment_description">عندما يتم اختيار الوضع التلقائي، يبدأ التطبيق بتعطيل الخصائص التي تستهلك البطارية بناءً على مستوى شحن البطارية</string>
+	<string name="whats_new_wiki_message">لقد أضفنا مقالات Wikipedia.org إلى صفحات معظم الأماكن السياحية المشهورة. أنها متاحة بدون اتصال بالانترنت</string>
+	<string name="power_managment_setting_manual_max">توفير الطاقة القصوى</string>
+	<string name="whats_new_wiki_title">ما هذا المكان؟</string>
+	<string name="unable_upadate_error_title">حدثت بعض الأخطاء أثناء التحديث يرجى التحقق من التغييرات و حاول مرة أخرى</string>
+	<string name="power_managment_setting_auto">تلقائي</string>
+	<string name="access_rules_author_only">التحرير على الإنترنت</string>
+	<string name="error_public_not _enought_subtitle">يجب أن يكون هناك 3 معلمات على الأقل لرفع دليلك إلى الدليل العام</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">محطة تلفريك</string>

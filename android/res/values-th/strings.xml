@@ -1467,6 +1467,23 @@
 	<string name="whatsnew_paid_routes_title">ประสบการณ์ใหม่ ๆ ที่มากขึ้น!</string>
 	<string name="whatsnew_paid_routes_message">นอกเหนือจากเส้นทางที่ไม่เสียค่าใช้จ่ายแล้ว เราได้เพิ่มหมวดหมู่เส้นทางที่ต้องชำระเงิน 3 ประเภทลงในแคตตาล็อกของเรา มีเส้นทางใหม่มากกว่า 700 เส้นทาง!</string>
 	<string name="whats_new_ugc_routes_title_android_only">แบ่งปันความประทับใจของคุณได้ง่าย ๆ</string>
+	<string name="ugc_thanks_message_auth">รีวิวของคุณได้รับการบันทึก</string>
+	<string name="error_public_not _enought_title">มีบุ๊กมาร์กไม่เพียงพอ</string>
+	<string name="gdpr_request_setting">รับชื่อบัญชีเพื่อขอ GDPR</string>
+	<string name="gdpr_request_window_message">โปรดคัดลอกชื่อบัญชีและส่งมาทางคำร้องที่ support\@maps.me</string>
+	<string name="gdpr_request_window_title">ชื่อบัญชีของคุณ: %s</string>
+	<string name="power_managment_setting_never">ไม่ใช้</string>
+	<string name="privacy_settings_menu">การตั้งค่าความเป็นส่วนตัว</string>
+	<string name="power_managment_title">โหมดประหยัดพลังงาน</string>
+	<string name="gdpr_request_window_copy">คัดลอกชื่อบัญชี</string>
+	<string name="power_managment_description">เมื่อโหมดอัตโนมัตินั้นถูกเลือก แอปพลิเคชันจะเริ่มหยุดการใช้พลังงานจากแบตเตอรีขึ้นอยู่กับจำนวนไฟในแบตเตอรีว่าเหลือเท่าไร</string>
+	<string name="whats_new_wiki_message">เราได้เพิ่มบทความของ Wikipedia.org ไปยังหน้าของจุดที่นักท่องเที่ยวให้ความสนใจเกือบทุกแห่ง ใช้งานได้โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต</string>
+	<string name="power_managment_setting_manual_max">ประหยัดพลังงานสูงสุด</string>
+	<string name="whats_new_wiki_title">สถานที่นั้นคืออะไร</string>
+	<string name="unable_upadate_error_title">มีข้อผิดพลาดบางอย่างเกิดขึ้นขณะอัพเดต โปรดตรวจทานการแก้ไขและลองใหม่อีกครั้ง</string>
+	<string name="power_managment_setting_auto">อัตโนมัติ</string>
+	<string name="access_rules_author_only">การแก้ไขทางออนไลน์</string>
+	<string name="error_public_not _enought_subtitle">คุณจำเป็นต้องมีอย่างน้อย 3 บุ๊กมาร์กเพื่ออัพโหลดไกด์ของคุณไปยังแคตตาล็อกสาธารณะ</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">สถานีกระเช้าลอยฟ้า</string>

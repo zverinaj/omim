@@ -1467,6 +1467,23 @@
 	<string name="whatsnew_paid_routes_title">Daha fazla yeni deneyimler!</string>
 	<string name="whatsnew_paid_routes_message">Ücretsiz rotalara ek olarak, kataloğumuza 3 ücretli rota kategorisi ekledik. 700\'den fazla yeni rota!</string>
 	<string name="whats_new_ugc_routes_title_android_only">İzlenimlerinizi paylaşmak çok kolay</string>
+	<string name="ugc_thanks_message_auth">Yorumunuz kaydedildi</string>
+	<string name="error_public_not _enought_title">Yeterli yer imi yok</string>
+	<string name="gdpr_request_setting">GDPR isteği için kimlik al</string>
+	<string name="gdpr_request_window_message">Lütfen kopyalayın ve talebi support\@maps.me adresine gönderin</string>
+	<string name="gdpr_request_window_title">Kimliğiniz: %s.</string>
+	<string name="power_managment_setting_never">Asla</string>
+	<string name="privacy_settings_menu">Gizlilik ayarları</string>
+	<string name="power_managment_title">Güç tasarrufu modu</string>
+	<string name="gdpr_request_window_copy">Kimliği kopyala</string>
+	<string name="power_managment_description">Otomatik mod seçildiğinde, uygulama geçerli pil seviyesine bağlı olarak şarj harcayan özellikleri devre dışı bırakmaya başlar</string>
+	<string name="whats_new_wiki_message">En popüler turistik mekanların sayfalarına Wikipedia.org makaleleri ekledik. Çevrimdışı kullanılabilirler</string>
+	<string name="power_managment_setting_manual_max">Maksimum güç tasarrufu</string>
+	<string name="whats_new_wiki_title">O yer neresi?</string>
+	<string name="unable_upadate_error_title">Güncelleme sırasında bazı hatalar oluştu. Lütfen değişiklikleri kontrol edip tekrar deneyin</string>
+	<string name="power_managment_setting_auto">Otomatik</string>
+	<string name="access_rules_author_only">Çevrimiçi düzenleme</string>
+	<string name="error_public_not _enought_subtitle">Kılavuzunuzu genel kataloğa yükleyebilmek için en az 3 yer iminiz olmalı</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Remontées mécaniques</string>

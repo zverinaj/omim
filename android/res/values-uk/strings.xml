@@ -1467,6 +1467,23 @@
 	<string name="whatsnew_paid_routes_title">Більше нових вражень!</string>
 	<string name="whatsnew_paid_routes_message">На додаток до безкоштовних маршрутів ми додали в каталог 3 категорії платних путівників. Більше 700 нових маршрутів!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Ділитись враженнями легко</string>
+	<string name="ugc_thanks_message_auth">Ваш відгук збережено</string>
+	<string name="error_public_not _enought_title">Недостатньо міток</string>
+	<string name="gdpr_request_setting">Отримати ID для GDPR запиту</string>
+	<string name="gdpr_request_window_message">Будь ласка, скопіюйте його й надішліть запит на support\@maps.me</string>
+	<string name="gdpr_request_window_title">Ваш ID: %s.</string>
+	<string name="power_managment_setting_never">Ніколи</string>
+	<string name="privacy_settings_menu">Налаштування конфіденційності</string>
+	<string name="power_managment_title">Режим енергозбереження</string>
+	<string name="gdpr_request_window_copy">Скопіювати ID</string>
+	<string name="power_managment_description">Якщо увімкнено режим енергозбереження, додаток буде відключати енерговитратні функції в залежності від поточного заряду телефону</string>
+	<string name="whats_new_wiki_message">Ми додали статті з Wikipedia.org, які доступні офлайн, до карток популярних визначних місць</string>
+	<string name="power_managment_setting_manual_max">Максимальне енергозбереження</string>
+	<string name="whats_new_wiki_title">Що це за місце?</string>
+	<string name="unable_upadate_error_title">Виникли помилки під час оновлення. Перевірте зміни та спробуйте ще раз</string>
+	<string name="power_managment_setting_auto">Автоматично</string>
+	<string name="access_rules_author_only">Редагується онлайн</string>
+	<string name="error_public_not _enought_subtitle">У вашому маршруті має бути мінімум 3 мітки, щоб його можна було завантажити до публічного каталогу</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Канатна дорога</string>

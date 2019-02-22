@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Your review has been saved";
+
+"error_public_not _enought_title" = "Not enough bookmarks";
+
+"gdpr_request_setting" = "Get ID for GDPR request";
+
+"gdpr_request_window_message" = "Please copy it and send the request to support@maps.me";
+
+"gdpr_request_window_title" = "Your ID is %s.";
+
+"power_managment_setting_never" = "Never";
+
+"privacy_settings_menu" = "Privacy settings";
+
+"power_managment_title" = "Power saving mode";
+
+"gdpr_request_window_copy" = "Copy the ID";
+
+"power_managment_description" = "When automatic mode is selected the application starts to disable battery draining features depending on the current battery charge level";
+
+"whats_new_wiki_message" = "We've added Wikipedia.org articles to the pages of the most popular tourist attractions. They are available offline";
+
+"power_managment_setting_manual_max" = "Maximum power saving";
+
+"whats_new_wiki_title" = "What's that place?";
+
+"unable_upadate_error_title" = "Some mistakes occurred while updating. Please check the changes and try again";
+
+"power_managment_setting_auto" = "Automatic";
+
+"access_rules_author_only" = "Online editing";
+
+"error_public_not _enought_subtitle" = "You should have at least 3 bookmarks to be able to upload your guide to the public catalogue";
+
 
 /**********  Partners  **********/
 

@@ -1461,6 +1461,23 @@
 	<string name="whatsnew_paid_routes_title">Lebih banyak pengalaman baru!</string>
 	<string name="whatsnew_paid_routes_message">Sebagai tambahan untuk rute-rute gratis, kami juga telah menambahkan 3 kategori rute berbayar ke dalam katalog kami. Lebih dari 700 rute baru!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Mudah untuk membagikan kesan Anda</string>
+	<string name="ugc_thanks_message_auth">Ulasan Anda telah disimpan</string>
+	<string name="error_public_not _enought_title">Bookmark tidak mencukupi</string>
+	<string name="gdpr_request_setting">Dapatkan ID untuk permintaan GDPR</string>
+	<string name="gdpr_request_window_message">Salin dan kirim permintaan ke support\@maps.me</string>
+	<string name="gdpr_request_window_title">ID Anda: %s.</string>
+	<string name="power_managment_setting_never">Jangan pernah</string>
+	<string name="privacy_settings_menu">Pengaturan privasi</string>
+	<string name="power_managment_title">Mode hemat daya</string>
+	<string name="gdpr_request_window_copy">Salin ID</string>
+	<string name="power_managment_description">Saat mode otomatis dipilih, aplikasi mulai menonaktifkan fitur yang menghabiskan daya baterai, bergantung pada tingkat daya baterai saat ini</string>
+	<string name="whats_new_wiki_message">Kami telah menambahkan artikel Wikipedia.org ke halaman tempat wisata yang paling populer dikunjungi turis. Tersedia secara offline</string>
+	<string name="power_managment_setting_manual_max">Hemat daya maksimum</string>
+	<string name="whats_new_wiki_title">Tempat apa itu?</string>
+	<string name="unable_upadate_error_title">Beberapa kesalahan terjadi saat memperbarui. Periksa perubahan dan coba lagi</string>
+	<string name="power_managment_setting_auto">Otomatis</string>
+	<string name="access_rules_author_only">Pengeditan online</string>
+	<string name="error_public_not _enought_subtitle">Anda setidaknya harus memiliki 3 bookmark untuk dapat mengunggah panduan ke katalog publik</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Stasiun kereta gantung</string>

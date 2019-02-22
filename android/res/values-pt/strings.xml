@@ -1465,6 +1465,23 @@
 	<string name="whatsnew_paid_routes_title">Mais impressões novas!</string>
 	<string name="whatsnew_paid_routes_message">Adicionamos no catálogo 3 categorias das guias de viagem pagos além dos percursos gratuitos. Mais de 700 percursos novos!</string>
 	<string name="whats_new_ugc_routes_title_android_only">É fácil compartilhar as impressões</string>
+	<string name="ugc_thanks_message_auth">Seu comentário foi salvo</string>
+	<string name="error_public_not _enought_title">Tags insuficientes</string>
+	<string name="gdpr_request_setting">Receber ID para pedido GDPR</string>
+	<string name="gdpr_request_window_message">Por favor, copia-lo e envie o pedido para support\@maps.me</string>
+	<string name="gdpr_request_window_title">Seu ID: %s.</string>
+	<string name="power_managment_setting_never">Nunca</string>
+	<string name="privacy_settings_menu">Configurações de privacidade</string>
+	<string name="power_managment_title">Modo de economia de energia</string>
+	<string name="gdpr_request_window_copy">Copiar ID</string>
+	<string name="power_managment_description">Se o modo de economia de energia estiver ativado, aplicação vai desligar as funções que consomem energia, dependendo da carga atual do telefone</string>
+	<string name="whats_new_wiki_message">Nos cartões de atrações populares, adicionamos artigos da Wikipedia.org, disponíveis offline</string>
+	<string name="power_managment_setting_manual_max">Máxima economia de energia</string>
+	<string name="whats_new_wiki_title">Que lugar é esse?</string>
+	<string name="unable_upadate_error_title">Ocorreram uns erros durante a atualização. Verifique as alterações e volte a tentar</string>
+	<string name="power_managment_setting_auto">Auto</string>
+	<string name="access_rules_author_only">Editado Online</string>
+	<string name="error_public_not _enought_subtitle">Seu percurso deve ter pelo menos 3 tags para carregá-lo no catálogo público</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Estação de teleférico</string>

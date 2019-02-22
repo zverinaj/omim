@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "您的评论已保存";
+
+"error_public_not _enought_title" = "标签不足";
+
+"gdpr_request_setting" = "GDPR请求获取ID";
+
+"gdpr_request_window_message" = "请复制并发送请求至support@maps.me";
+
+"gdpr_request_window_title" = "您的ID：%s.";
+
+"power_managment_setting_never" = "从不";
+
+"privacy_settings_menu" = "隐私设置";
+
+"power_managment_title" = "省电模式";
+
+"gdpr_request_window_copy" = "复制ID";
+
+"power_managment_description" = "如果开启省电模式，应用程序将根据手机的当前电量关耗电功能";
+
+"whats_new_wiki_message" = "在热门景点的卡片中，我们添加了来自Wikipedia.org的文章，可以离线使用";
+
+"power_managment_setting_manual_max" = "最大程度省电";
+
+"whats_new_wiki_title" = "这是什么地方？";
+
+"unable_upadate_error_title" = "更新时出错。请检查更改，然后再重试";
+
+"power_managment_setting_auto" = "自动";
+
+"access_rules_author_only" = "在线编辑";
+
+"error_public_not _enought_subtitle" = "您的路线至少应有3个标签才能上传到公共目录中";
+
 
 /**********  Partners  **********/
 

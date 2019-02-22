@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Ваш відгук збережено";
+
+"error_public_not _enought_title" = "Недостатньо міток";
+
+"gdpr_request_setting" = "Отримати ID для GDPR запиту";
+
+"gdpr_request_window_message" = "Будь ласка, скопіюйте його й надішліть запит на support@maps.me";
+
+"gdpr_request_window_title" = "Ваш ID: %s.";
+
+"power_managment_setting_never" = "Ніколи";
+
+"privacy_settings_menu" = "Налаштування конфіденційності";
+
+"power_managment_title" = "Режим енергозбереження";
+
+"gdpr_request_window_copy" = "Скопіювати ID";
+
+"power_managment_description" = "Якщо увімкнено режим енергозбереження, додаток буде відключати енерговитратні функції в залежності від поточного заряду телефону";
+
+"whats_new_wiki_message" = "Ми додали статті з Wikipedia.org, які доступні офлайн, до карток популярних визначних місць";
+
+"power_managment_setting_manual_max" = "Максимальне енергозбереження";
+
+"whats_new_wiki_title" = "Що це за місце?";
+
+"unable_upadate_error_title" = "Виникли помилки під час оновлення. Перевірте зміни та спробуйте ще раз";
+
+"power_managment_setting_auto" = "Автоматично";
+
+"access_rules_author_only" = "Редагується онлайн";
+
+"error_public_not _enought_subtitle" = "У вашому маршруті має бути мінімум 3 мітки, щоб його можна було завантажити до публічного каталогу";
+
 
 /**********  Partners  **********/
 

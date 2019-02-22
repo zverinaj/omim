@@ -1460,6 +1460,23 @@
 	<string name="whatsnew_paid_routes_title">さらなある新たな体験！</string>
 	<string name="whatsnew_paid_routes_message">無料のルートに加え、カタログに3つの有料のルートを追加しました。700を超える新たなルート！</string>
 	<string name="whats_new_ugc_routes_title_android_only">印象を共有するのは簡単です</string>
+	<string name="ugc_thanks_message_auth">あなたのレビューが保存されました</string>
+	<string name="error_public_not _enought_title">ブックマークが足りません</string>
+	<string name="gdpr_request_setting">GDPRリクエストのためのIDを取得</string>
+	<string name="gdpr_request_window_message">これをコピーしてsupport\@maps.meにリクエストを送信してください</string>
+	<string name="gdpr_request_window_title">あなたのID：%s。</string>
+	<string name="power_managment_setting_never">無効</string>
+	<string name="privacy_settings_menu">プライバシー設定</string>
+	<string name="power_managment_title">電力節約モード</string>
+	<string name="gdpr_request_window_copy">IDをコピー</string>
+	<string name="power_managment_description">自動モードが選択されている場合、このアプリケーションは現在のバッテリーの充電状態に応じてバッテリー消費の激しい機能の無効化を開始します</string>
+	<string name="whats_new_wiki_message">当社はWikipedia.orgの記事を最も人気の観光名所のページに追加しました。これらはオフラインで利用する事ができます</string>
+	<string name="power_managment_setting_manual_max">最大電力節約</string>
+	<string name="whats_new_wiki_title">その場所は何ですか？</string>
+	<string name="unable_upadate_error_title">更新中に何かミスが発生しました。変更を確認して、もう一度お試しください</string>
+	<string name="power_managment_setting_auto">自動</string>
+	<string name="access_rules_author_only">オンライン編集</string>
+	<string name="error_public_not _enought_subtitle">パブリックカタログにあなたのガイドをアップロードするには少なくとも3つのブックマークが必要です</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">ケーブルカー駅</string>

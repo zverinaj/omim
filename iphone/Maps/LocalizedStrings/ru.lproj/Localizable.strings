@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Ваш отзыв сохранен";
+
+"error_public_not _enought_title" = "Недостаточно меток";
+
+"gdpr_request_setting" = "Получить ID для GDPR запроса";
+
+"gdpr_request_window_message" = "Пожалуйста, скопируйте его и отправьте запрос на support@maps.me";
+
+"gdpr_request_window_title" = "Ваш ID: %s.";
+
+"power_managment_setting_never" = "Никогда";
+
+"privacy_settings_menu" = "Настройки конфиденциальности";
+
+"power_managment_title" = "Режим энергосбережения";
+
+"gdpr_request_window_copy" = "Скопировать ID";
+
+"power_managment_description" = "Если режим энергосбережения включен, приложение будет отключать энергозатратные функции в зависимости от текущего заряда телефона";
+
+"whats_new_wiki_message" = "В карточки популярных достопримечательностей мы добавили статьи из Wikipedia.org, доступные офлайн";
+
+"power_managment_setting_manual_max" = "Максимальное энергосбережение";
+
+"whats_new_wiki_title" = "Что это за место?";
+
+"unable_upadate_error_title" = "Возникли ошибки при обновлении. Проверьте изменения и повторите попытку";
+
+"power_managment_setting_auto" = "Авто";
+
+"access_rules_author_only" = "Редактируется онлайн";
+
+"error_public_not _enought_subtitle" = "В вашем маршруте должно быть минимум 3 метки, чтобы загрузить его в публичный каталог";
+
 
 /**********  Partners  **********/
 

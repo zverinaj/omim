@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Comentariul dvs. a fost salvat";
+
+"error_public_not _enought_title" = "Etichete insuficiente";
+
+"gdpr_request_setting" = "Primiți ID pentru GDPR-ul solicitării";
+
+"gdpr_request_window_message" = "Vă rugăm să copiați și să expediați cererea pe support@maps.me";
+
+"gdpr_request_window_title" = "ID dvs.: %s.";
+
+"power_managment_setting_never" = "Niciodată";
+
+"privacy_settings_menu" = "Setarea confidențialității";
+
+"power_managment_title" = "Modul de economisire a energiei";
+
+"gdpr_request_window_copy" = "Copierea ID";
+
+"power_managment_description" = "Dacă este pornit modul de economisire a energiei, aplicația va deconecta funcțiile care consumă multă energie în dependență de încărcarea bateriei telefonice";
+
+"whats_new_wiki_message" = "În fișierele locurilor atractive, am adăugat articole din Wikipedia.org, accesibile offline";
+
+"power_managment_setting_manual_max" = "Economisire maximă a energiei";
+
+"whats_new_wiki_title" = "Ce loc este acesta?";
+
+"unable_upadate_error_title" = "Au intervenit erori de actualizare. Verificați modificările și încercați încă o dată";
+
+"power_managment_setting_auto" = "Auto";
+
+"access_rules_author_only" = "Se editează online";
+
+"error_public_not _enought_subtitle" = "Pe traseul dvs. trebuie să fie cel puțin 3 etichete, pentru a le încărca în catalogul public";
+
 
 /**********  Partners  **********/
 

@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Recenzia bola uložená";
+
+"error_public_not _enought_title" = "Nie je dostatok záložiek";
+
+"gdpr_request_setting" = "Získajte ID pre GDPR žiadosť";
+
+"gdpr_request_window_message" = "Skopírujte ho a pošlite žiadosť na adresu support@maps.me";
+
+"gdpr_request_window_title" = "Vaše ID: %s.";
+
+"power_managment_setting_never" = "Nikdy";
+
+"privacy_settings_menu" = "Nastavenia ochrany osobných údajov";
+
+"power_managment_title" = "Úsporný režim";
+
+"gdpr_request_window_copy" = "Skopírujte ID";
+
+"power_managment_description" = "Keď je zvolený automatický režim, aplikácia začne vypínať funkcie, ktoré vybíjajú batériu v závislosti od aktuálnej úrovne nabitia batérie";
+
+"whats_new_wiki_message" = "Pridali sme články Wikipedia.org na stránky najobľúbenejších turistických atrakcií. Sú k dispozícii offline";
+
+"power_managment_setting_manual_max" = "Maximálna úspora batérie";
+
+"whats_new_wiki_title" = "Čo je to za miesto?";
+
+"unable_upadate_error_title" = "Počas aktualizácie sa vyskytli určité chyby. Skontrolujte zmeny a skúste to znova";
+
+"power_managment_setting_auto" = "Automaticky";
+
+"access_rules_author_only" = "Online úprava";
+
+"error_public_not _enought_subtitle" = "Mali by ste mať minimálne 3 záložky, aby ste mohli nahrať sprievodcu do verejného katalógu";
+
 
 /**********  Partners  **********/
 

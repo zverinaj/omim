@@ -1219,6 +1219,23 @@
 	<string name="whatsnew_pro_guides_message">Υψηλό επίπεδο λεπτομέρειας, αναλυτικές περιγραφές τοποθεσιών και δυνατότητα υπολογισμού της απόστασης και του χρόνου της βόλτας</string>
 	<string name="whatsnew_paid_routes_title">Περισσότερες νέες εμπειρίες!</string>
 	<string name="whatsnew_paid_routes_message">Εκτός από τις δωρεάν διαδρομές έχουμε προσθέσει στον κατάλογο και 3 κατηγορίες ταξιδιωτικών οδηγών επί πληρωμή. Περισσότερες από 700 νέες διαδρομές!</string>
+	<string name="ugc_thanks_message_auth">Το σχόλιό σας έχει αποθηκευτεί</string>
+	<string name="error_public_not _enought_title">Δεν υπάρχουν αρκετά σημάδια</string>
+	<string name="gdpr_request_setting">Λήψη του αναγνωριστικού αριθμού για το αίτημα GDPR</string>
+	<string name="gdpr_request_window_message">Αντιγράψτε το και στείλτε το αίτημα στη διεύθυνση support\@maps.me</string>
+	<string name="gdpr_request_window_title">Ο αναγνωριστικός αριθμός σας είναι: %s.</string>
+	<string name="power_managment_setting_never">Ποτέ</string>
+	<string name="privacy_settings_menu">Ρυθμίσεις απορρήτου</string>
+	<string name="power_managment_title">Λειτουργία εξοικονόμησης ενέργειας</string>
+	<string name="gdpr_request_window_copy">Αντιγραφή του αναγνωριστικού αριθμού</string>
+	<string name="power_managment_description">Εάν η λειτουργία εξοικονόμησης ενέργειας είναι ενεργοποιημένη, η εφαρμογή θα κλείνει τις λειτουργίες που καταναλώνουν ενέργεια ανάλογα με την τρέχουσα φόρτιση του τηλεφώνου</string>
+	<string name="whats_new_wiki_message">Στις κάρτες των δημοφιλών αξιοθέατων προσθέσαμε άρθρα από το Wikipedia.org που είναι διαθέσιμα εκτός σύνδεσης</string>
+	<string name="power_managment_setting_manual_max">Μέγιστη εξοικονόμηση ενέργειας</string>
+	<string name="whats_new_wiki_title">Τι είναι αυτό το μέρος?</string>
+	<string name="unable_upadate_error_title">Παρουσιάστηκαν σφάλματα κατά την ενημέρωση. Ελέγξτε τις αλλαγές και δοκιμάστε ξανά</string>
+	<string name="power_managment_setting_auto">Αυτόματα</string>
+	<string name="access_rules_author_only">Επεξεργάζεται online</string>
+	<string name="error_public_not _enought_subtitle">Η διαδρομή σας πρέπει να έχει τουλάχιστον 3 σημάδια για να μεταφορτωθεί στον δημόσιο κατάλογο</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Σταθμός αερομεταφοράς</string>

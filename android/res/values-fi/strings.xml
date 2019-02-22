@@ -1462,6 +1462,23 @@
 	<string name="whatsnew_paid_routes_title">Enemmän uusia elämyksiä!</string>
 	<string name="whatsnew_paid_routes_message">Ilmaisten reittien lisäksi nyt 3 kategoriaa maksullisia matkaoppaita lisätty luetteloon. Yli 700 uusia reittejä!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Voit helposti jakaa kokemuksiasi</string>
+	<string name="ugc_thanks_message_auth">Arvostelusi tallennettiin</string>
+	<string name="error_public_not _enought_title">Ei tarpeeksi kirjanmerkkejä</string>
+	<string name="gdpr_request_setting">ID:n hankkiminen GDPR-pyyntöä varten</string>
+	<string name="gdpr_request_window_message">Kopioi se ja lähetä pyyntö osoitteeseen support\@maps.me</string>
+	<string name="gdpr_request_window_title">Sinun ID: %s.</string>
+	<string name="power_managment_setting_never">Ei koskaan</string>
+	<string name="privacy_settings_menu">Yksityisyysasetukset</string>
+	<string name="power_managment_title">Virransäästötila</string>
+	<string name="gdpr_request_window_copy">Kopioi ID</string>
+	<string name="power_managment_description">Kun olet valinnut automaattisen tilan, sovellus alkaa sammuttamaan virtaa vieviä ominaisuuksia riippuen kulloisestakin akun latauksesta</string>
+	<string name="whats_new_wiki_message">Olemme lisänneet suosituimpien turistikohteiden sivuille Wikipedia.org-artikkelit. Ne ovat saatilla myös ilman nettiä</string>
+	<string name="power_managment_setting_manual_max">Täysi virransäästö</string>
+	<string name="whats_new_wiki_title">Mikä tuo paikka on?</string>
+	<string name="unable_upadate_error_title">Päivityksen aikana tapahtui jokin virhe. Tarkista muutokset ja yritä uudelleen</string>
+	<string name="power_managment_setting_auto">Automaattinen</string>
+	<string name="access_rules_author_only">Nettimuokkaus</string>
+	<string name="error_public_not _enought_subtitle">Sinulla täytyy olla vähintään 3 kirjanmerkkiä, jotta voit lähettää oppaan julkiseen luetteloon</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Köysirata-asema</string>

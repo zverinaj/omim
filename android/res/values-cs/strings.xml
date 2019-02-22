@@ -1470,6 +1470,23 @@
 	<string name="whatsnew_paid_routes_title">Více nových zážitků!</string>
 	<string name="whatsnew_paid_routes_message">K trasám zdarma jsme do katalogu navíc přidali 3 kategorie zpoplatněných průvodců. Více než 700 nových tras!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Sdílet své dojmy je jednoduché</string>
+	<string name="ugc_thanks_message_auth">Váš ohlas je uložen</string>
+	<string name="error_public_not _enought_title">Je málo značek</string>
+	<string name="gdpr_request_setting">Dostat ID pro GDPR požadavek</string>
+	<string name="gdpr_request_window_message">Prosím, zkopírujte ho a odešlete požadavek do support\@maps.me</string>
+	<string name="gdpr_request_window_title">Váš ID: %s.</string>
+	<string name="power_managment_setting_never">Nikdy</string>
+	<string name="privacy_settings_menu">Naladění důvěrnosti</string>
+	<string name="power_managment_title">Nízkoenergetický režim</string>
+	<string name="gdpr_request_window_copy">Zkopírovat ID</string>
+	<string name="power_managment_description">Pokud je nízkoenergetický režim zapojen, příloha bude vypínat funkce, které mrhají energii v závislosti na nynější nabíjení telefonu</string>
+	<string name="whats_new_wiki_message">Do kartiček populárních pamětihodností jsme vložili články ze Wikipedia.org, které jsou přístupny offline</string>
+	<string name="power_managment_setting_manual_max">Maximální šetření energií</string>
+	<string name="whats_new_wiki_title">Co je toto místo?</string>
+	<string name="unable_upadate_error_title">Objevily se chyby pří obnovení. Zkontrolujte změny a zopakujte pokus</string>
+	<string name="power_managment_setting_auto">Auto</string>
+	<string name="access_rules_author_only">Upravujte on-line</string>
+	<string name="error_public_not _enought_subtitle">Vaše trasa musí mít nejméně než 3 značky, abyste mohli uložit ho do veřejného katalogu</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Stanice lanové dráhy</string>

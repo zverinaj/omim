@@ -1476,6 +1476,23 @@
 	<string name="whatsnew_paid_routes_title">Plus de nouvelles impressions!</string>
 	<string name="whatsnew_paid_routes_message">En plus des itinéraires gratuits, nous avons ajouté au catalogue 3 catégories de guides payants. Plus de 700 nouvelles routes!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Il est facile de partager vos impressions</string>
+	<string name="ugc_thanks_message_auth">Votre avis a été enregistré</string>
+	<string name="error_public_not _enought_title">Pas assez de tags</string>
+	<string name="gdpr_request_setting">Obtenir un ID pour la demande GDPR</string>
+	<string name="gdpr_request_window_message">Veuillez le copier et envoyer une demande à support\@maps.me</string>
+	<string name="gdpr_request_window_title">Votre ID : %s.</string>
+	<string name="power_managment_setting_never">Jamais</string>
+	<string name="privacy_settings_menu">Paramètres de confidentialité</string>
+	<string name="power_managment_title">Mode économie d\'énergie</string>
+	<string name="gdpr_request_window_copy">Copier l\'ID</string>
+	<string name="power_managment_description">Si le mode d\'économie d\'énergie est activé, l\'application désactive les fonctions consommant de l\'énergie en fonction de la charge actuelle du téléphone</string>
+	<string name="whats_new_wiki_message">Dans les fiches des attractions touristiques populaires, nous avons ajouté des articles de Wikipedia.org, disponibles hors connexion</string>
+	<string name="power_managment_setting_manual_max">Économie d\'énergie maximale</string>
+	<string name="whats_new_wiki_title">Quel est cet endroit?</string>
+	<string name="unable_upadate_error_title">Il y a eu des erreurs pendant la mise à jour. Veuilelz revérifiez les modifications et réessayez</string>
+	<string name="power_managment_setting_auto">Automatique</string>
+	<string name="access_rules_author_only">Édition en ligne</string>
+	<string name="error_public_not _enought_subtitle">Votre itinéraire doit avoir au moins 3 tags afin d\'effectuer le téléchargement dans le répertoire public</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Remontées mécaniques</string>

@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "รีวิวของคุณได้รับการบันทึก";
+
+"error_public_not _enought_title" = "มีบุ๊กมาร์กไม่เพียงพอ";
+
+"gdpr_request_setting" = "รับชื่อบัญชีเพื่อขอ GDPR";
+
+"gdpr_request_window_message" = "โปรดคัดลอกชื่อบัญชีและส่งมาทางคำร้องที่ support@maps.me";
+
+"gdpr_request_window_title" = "ชื่อบัญชีของคุณ: %s";
+
+"power_managment_setting_never" = "ไม่ใช้";
+
+"privacy_settings_menu" = "การตั้งค่าความเป็นส่วนตัว";
+
+"power_managment_title" = "โหมดประหยัดพลังงาน";
+
+"gdpr_request_window_copy" = "คัดลอกชื่อบัญชี";
+
+"power_managment_description" = "เมื่อโหมดอัตโนมัตินั้นถูกเลือก แอปพลิเคชันจะเริ่มหยุดการใช้พลังงานจากแบตเตอรีขึ้นอยู่กับจำนวนไฟในแบตเตอรีว่าเหลือเท่าไร";
+
+"whats_new_wiki_message" = "เราได้เพิ่มบทความของ Wikipedia.org ไปยังหน้าของจุดที่นักท่องเที่ยวให้ความสนใจเกือบทุกแห่ง ใช้งานได้โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต";
+
+"power_managment_setting_manual_max" = "ประหยัดพลังงานสูงสุด";
+
+"whats_new_wiki_title" = "สถานที่นั้นคืออะไร";
+
+"unable_upadate_error_title" = "มีข้อผิดพลาดบางอย่างเกิดขึ้นขณะอัพเดต โปรดตรวจทานการแก้ไขและลองใหม่อีกครั้ง";
+
+"power_managment_setting_auto" = "อัตโนมัติ";
+
+"access_rules_author_only" = "การแก้ไขทางออนไลน์";
+
+"error_public_not _enought_subtitle" = "คุณจำเป็นต้องมีอย่างน้อย 3 บุ๊กมาร์กเพื่ออัพโหลดไกด์ของคุณไปยังแคตตาล็อกสาธารณะ";
+
 
 /**********  Partners  **********/
 

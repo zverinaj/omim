@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "Ulasan Anda telah disimpan";
+
+"error_public_not _enought_title" = "Bookmark tidak mencukupi";
+
+"gdpr_request_setting" = "Dapatkan ID untuk permintaan GDPR";
+
+"gdpr_request_window_message" = "Salin dan kirim permintaan ke support@maps.me";
+
+"gdpr_request_window_title" = "ID Anda: %s.";
+
+"power_managment_setting_never" = "Jangan pernah";
+
+"privacy_settings_menu" = "Pengaturan privasi";
+
+"power_managment_title" = "Mode hemat daya";
+
+"gdpr_request_window_copy" = "Salin ID";
+
+"power_managment_description" = "Saat mode otomatis dipilih, aplikasi mulai menonaktifkan fitur yang menghabiskan daya baterai, bergantung pada tingkat daya baterai saat ini";
+
+"whats_new_wiki_message" = "Kami telah menambahkan artikel Wikipedia.org ke halaman tempat wisata yang paling populer dikunjungi turis. Tersedia secara offline";
+
+"power_managment_setting_manual_max" = "Hemat daya maksimum";
+
+"whats_new_wiki_title" = "Tempat apa itu?";
+
+"unable_upadate_error_title" = "Beberapa kesalahan terjadi saat memperbarui. Periksa perubahan dan coba lagi";
+
+"power_managment_setting_auto" = "Otomatis";
+
+"access_rules_author_only" = "Pengeditan online";
+
+"error_public_not _enought_subtitle" = "Anda setidaknya harus memiliki 3 bookmark untuk dapat mengunggah panduan ke katalog publik";
+
 
 /**********  Partners  **********/
 

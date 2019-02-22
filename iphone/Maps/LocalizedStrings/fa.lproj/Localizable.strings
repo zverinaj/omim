@@ -2754,6 +2754,40 @@
 /* FIXME */
 "notifications_illegal_alert_disable_button" = "Disable notifications";
 
+"ugc_thanks_message_auth" = "نظر شما ذخیره شده‌است";
+
+"error_public_not _enought_title" = "نشان شده‌ها کافی نیست";
+
+"gdpr_request_setting" = "دریافت شناسه برای درخواست GDPR";
+
+"gdpr_request_window_message" = "لطفاً آن را کپی کرده و درخواست را به support@maps.me ارسال کنید";
+
+"gdpr_request_window_title" = "شناسه شما: %s.";
+
+"power_managment_setting_never" = "هرگز";
+
+"privacy_settings_menu" = "تنظیمات حریم خصوصی";
+
+"power_managment_title" = "حالت ذخیره انرژی";
+
+"gdpr_request_window_copy" = "شناسه را کپی کنید";
+
+"power_managment_description" = "هنگامی که حالت خودکار انتخاب شده‌باشد، برنامه با توجه میزان شارژ باتری شما، ویژگی‌های تخلیه کننده باتری را غیر فعال می‌کند";
+
+"whats_new_wiki_message" = "ما مقالات Wikipedia.org را به صفحات جذاب‌ترین جاذبه‌های توریستی اضافه کرده‌ایم. آن‌ها به طور آفلاین دردسترس می‌باشد";
+
+"power_managment_setting_manual_max" = "حداکثر ذخیره انرژی";
+
+"whats_new_wiki_title" = "آن محل چیست؟";
+
+"unable_upadate_error_title" = "هنگام به روز رسانی برخی اشتباهات رخ داده است. لطفاً تغییرات را بررسی و مجدد تلاش کنید";
+
+"power_managment_setting_auto" = "خودکار";
+
+"access_rules_author_only" = "ویرایش آنلاین";
+
+"error_public_not _enought_subtitle" = "شما باید حداقل 3 نشان‌ شده داشته باشید تا راهنمای خود را به کاتالوگ عمومی ارسال کنید";
+
 
 /**********  Partners  **********/
 

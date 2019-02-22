@@ -1466,6 +1466,23 @@
 	<string name="whatsnew_paid_routes_title">Flere nye oplevelser!</string>
 	<string name="whatsnew_paid_routes_message">Udover de gratis ruter har vi tilføjet 3 betalte rutekategorier til vores katalog. Over 700 nye ruter!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Det er nemt at dele dine indtryk</string>
+	<string name="ugc_thanks_message_auth">Din anmeldelse er blevet gemt</string>
+	<string name="error_public_not _enought_title">Ikke nok bogmærker</string>
+	<string name="gdpr_request_setting">Få ID til GDPR anmodning</string>
+	<string name="gdpr_request_window_message">Kopiere det og send anmodningen til support\@maps.me</string>
+	<string name="gdpr_request_window_title">Dit ID: %s.</string>
+	<string name="power_managment_setting_never">Aldrig</string>
+	<string name="privacy_settings_menu">Indstillinger for beskyttelse af personlige oplysninger</string>
+	<string name="power_managment_title">Strømsparetilstand</string>
+	<string name="gdpr_request_window_copy">Kopier ID\'et</string>
+	<string name="power_managment_description">Når automatisk tilstand er valgt, begynder applikationen at deaktivere funktioner, med højt batteri-strømforbrug, afhængigt af det aktuelle batteriniveau</string>
+	<string name="whats_new_wiki_message">Vi har tilføjet Wikipedia.org artikler til siderne, af de mest populære turistattraktioner. De er tilgængelige offline</string>
+	<string name="power_managment_setting_manual_max">Maksimum strømbesparelse</string>
+	<string name="whats_new_wiki_title">Hvad er det sted?</string>
+	<string name="unable_upadate_error_title">Der opstod nogle fejl under opdatering. Kontroller ændringerne, og prøv igen</string>
+	<string name="power_managment_setting_auto">Automatisk</string>
+	<string name="access_rules_author_only">Online redigering</string>
+	<string name="error_public_not _enought_subtitle">Du skal have mindst 3 bogmærker, for at kunne uploade din guide til det offentlige katalog</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Kabelbanestation</string>

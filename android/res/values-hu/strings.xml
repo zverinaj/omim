@@ -1462,6 +1462,23 @@
 	<string name="whatsnew_paid_routes_title">Új tapasztalatok!</string>
 	<string name="whatsnew_paid_routes_message">Az ingyenes útvonalakon felül 3 fizetős útvonalkategóriát is hozzáadtunk a katalógusunkhoz. Több mint 700 új útvonal!</string>
 	<string name="whats_new_ugc_routes_title_android_only">Könnyű megosztani a benyomásaidat</string>
+	<string name="ugc_thanks_message_auth">Az értékelésed elmentve</string>
+	<string name="error_public_not _enought_title">Nincs elegendő könyvjelző</string>
+	<string name="gdpr_request_setting">ID beszerzése GDPR kéréshez</string>
+	<string name="gdpr_request_window_message">Kérjük másold le és küldd el a kérést a support\@maps.me címre</string>
+	<string name="gdpr_request_window_title">A te ID-d: %s.</string>
+	<string name="power_managment_setting_never">Soha</string>
+	<string name="privacy_settings_menu">Adatvédelmi beállítások</string>
+	<string name="power_managment_title">Energiatakarékos mód</string>
+	<string name="gdpr_request_window_copy">ID lemásolása</string>
+	<string name="power_managment_description">Amikor az automatikus mód van kiválasztva, az alkalmazás elkezdi kikapcsolni az akkumulátort merítő funkciókat a jelenlegi akkumulátor töltöttség alapján</string>
+	<string name="whats_new_wiki_message">Wikipedia.org cikkeket adtunk hozzá a legnépszerűbb látnivalók oldalaihoz. Offline elérhetőek</string>
+	<string name="power_managment_setting_manual_max">Maximális energiatakarékosság</string>
+	<string name="whats_new_wiki_title">Mi ez a hely?</string>
+	<string name="unable_upadate_error_title">Néhány hiba történt frissítés közben. Kérjük ellenőrizd a változtatásokat és próbáld újra</string>
+	<string name="power_managment_setting_auto">Automatikus</string>
+	<string name="access_rules_author_only">Online szerkesztés</string>
+	<string name="error_public_not _enought_subtitle">Legalább 3 könyvjelződnek kell lennie, hogy az útmutatódat feltölthesd a nyilvános katalógusba</string>
 
 	<!-- SECTION: Types -->
 	<string name="type.aerialway.station">Felvonóállomás</string>
