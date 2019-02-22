@@ -133,7 +133,7 @@
     uk = В'їзд на кільцеву транспортну розв'язку.
 
   [leave_the_roundabout]
-    en = Exit from the roundabout.
+    en = from the roundabout.
     ru = Сверните с кольца.
     ar = اخرج من الدوار.
     cs = Opusťte kruhový objezd.
@@ -334,7 +334,7 @@
     en = Exit.
     ru = Съезд.
     ar = مخرج, خروج.
-    cs = výstup.
+    cs = Sjeďte na výjezdu.
     da = Afkørsel.
     nl = Verlaat.
     fi = Poistu.
